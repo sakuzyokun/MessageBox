@@ -1,7 +1,7 @@
 # ⚠ MessageBox
 
-![Windows](https://img.shields.io/badge/Windows-10%20~%2011-blue)  
-⏰ **エラー作成アプリ** for Windows XP / Vista / 7 / 8 / 8.1 / 10 / 11  
+![Windows](https://img.shields.io/badge/Windows-XP%20~%2011-blue)  
+⚠ **エラー作成アプリ** for Windows XP / Vista / 7 / 8 / 8.1 / 10 / 11  
 🌱 **メモリ使用量 20〜30MB / CPU数％で動作！**  
 📦 シンプル・高速なアプリ 
 
@@ -46,7 +46,7 @@ Windows 11 で MessageBox を起動した様子 (v1.0.0)
 1. 変な位置だあ
 <img src="https://github.com/sakuzyokun/MessageBox/blob/main/変な位置だあ_b1.png?raw=true" alt="変な位置にあるボタンのスクリーンショット" width="50%">
 2. スペース入れた後
-<img src="https://github.com/sakuzyokun/MessageBox/blob/main/変な位置だあ1_b1.png?raw=true" alt="変な位置にあるボタンを改善後スクリーンショット" width="50%">
+<img src="https://github.com/sakuzyokun/MessageBox/blob/main/変な位置だあ 1_b1.png?raw=true" alt="変な位置にあるボタンを改善後スクリーンショット" width="50%">
 
 ---
 
